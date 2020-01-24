@@ -12,7 +12,7 @@ In this page, you will find
 
 [M3: Algorithmique, Programmation et Architectures](https://github.com/ratnania/UM6P-SDAD-EX-2020/tree/master/M3/README.md)
 
-[M4: Bases de données](https://github.com/ratnania/UM6P-SDAD-EX-2020/tree/master/M4/README.md)
+[M4: Environnements de travail du Data-Scientist](https://github.com/ratnania/UM6P-SDAD-EX-2020/tree/master/M4/README.md)
 
 [M5: Mathématiques avancées pour le Data-Scientist](https://github.com/ratnania/UM6P-SDAD-EX-2020/tree/master/M5/README.md)
 
